@@ -1,0 +1,37 @@
+.main {
+	display: block;
+	margin: auto;
+	width: 40%;
+	padding-top: 30px;
+}
+
+body {
+	background-color: #000000;
+}
+
+.game {
+	color: red;
+}
+
+h1 {
+	color: #e2debf;
+	text-align: center;
+	padding: 20px;
+	font-family: 'Times', sans-serif;
+	font-size: 40px;
+}
+h2 {
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-family: 'Times', sans-serif;
+	font-size: 40px;
+}
+
+p {
+	color: gray;
+	text-align: center;
+	font-family: 'Times', sans-serif;
+	font-size: 24px;
+	letter-spacing: 2px;
+}

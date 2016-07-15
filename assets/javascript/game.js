@@ -44,10 +44,10 @@ document.onkeyup = function(event) {
 			"<p>Guesses Remaining: " +
 			guessesLeft + "</p>" + "<p> Letters Guessed: " + guessesSoFar + " " + "</p>";
 
-		// Placing the html into the game ID
+		// html add
 		document.querySelector('#game').innerHTML = html;
 
-// function created to reset after a round
+// reset function
 function reset() {
 	guessesSoFar.length = 0;
 	guessesLeft = 9;
